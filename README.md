@@ -23,3 +23,19 @@ Obivously being a friendly, fun person to work with. But that's paramount in any
 ## Portfolio
 ## CS-210 Module 8 Portfolio Item (Project 3) (7-3)
 
+# Summarize the project and what problem it was solving.
+For this project I was tasked with designing a program to help a grocery store, the Corner Grocer, figure out what items and how many of those items were purchased in a single working day. The insight received from the program would further help the Corner Grocer make any improvements to the layout of their store. The program simply reads the Corner Grocer's input file (CS210_Project_Three_Input_File.txt) and then writes (or transfers) that data into an output file (frequency.dat). As the data is written into the output file, the program takes an item sees how many times that item was purchased and records it with a number by the item. For example, if Carrots would be listed eight separate times on the input file, so then the program writes it into the output file as, Carrots 8. The program also displays every item and its frequency (like 8) if the user chooses to do so. It also displays the frequencies in a histogram form (instead of Carrots 8, Carrots ********). All of these features are presented right from the start for a user to select.
+
+# What did you do particularly well?
+I think I did a pretty good job with organizing my code in the program so that it is readable and easy to follow. I also included code to deal with error handling, specifically for the users input.
+
+# Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+I did notice when I was basically finished with testing/running that the input had to written with a capital letter character (case sensitivity). And instead of going back to write more code to handle that, I simply added a comment in the output statement that was right before the input statement to say, "Enter an item. First letter needs to be capitalized." Which was the easy way out of having to go back to write more code for it. I was essentially at the finish line of the project and the program did run the way it was suppose to, so I put that comment in that statement so the user knew what to enter. But if the user didn't have a capital letter, program prompted an error message telling the user to capitalize the input. Regardless, I should went back and written the code for it. One of these days I'll have to go back in and adjust it.
+
+# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+Using the Map and Pair containers were the most tedious since we didn't have much time to work with that material in the course. I had to review the ranged for loops for the Map and Pair containers as well. I took the most time in that area of the program and went with that approach. Other options were obviously possible, but they appeared more sticky/clustered and seemed harder to read/follow in the code.
+
+# What skills from this project will be particularly transferable to other projects or course work?
+I will use everything I did from this project and transfer the knowledge/understanding to other courses in the Computer Science program. Specifically in other programming languages. A lot of languages share many similarities that help programmers learn and become more versatile.
+
+# How did you make this program maintainable, readable, and adaptable?
