@@ -1,6 +1,6 @@
-# Behrens1.0
-Portfolio Prep
-CS-250 Module 8 Portfolio Item
+## Behrens1.0
+## Portfolio Prep
+## CS-250 Module 8 Portfolio Item
 
 # How do I interpret user needs and implement them into a program?
 I record all the important points that the user needs. Detailed notes about the users needs, but not too detailed where the information becomes complex. Then, I'll take this information and use it with the knowledge I have in programming to design/develop simple, efficient, and effective code.
@@ -16,3 +16,10 @@ I intend to use many of them, if not all of them as much as possible. I think th
 
 # What does it mean to be a good team member in software development?
 Obivously being a friendly, fun person to work with. But that's paramount in any work environment. I would kindly ask coworkers for help when I need it and ask them if they need help. To challenge one another and not just give each other the answer if we believe we (them and myslef) can figure out the solution to a problem. When giving each other feedback, be respectful and helpful. Give constructive criticism when it is necessary and do our best to avoid destructive criticism. Hold each other responsible and accountable for our work and our actions. If anyone can do those things as consistently as possible, then I would say they're a good team member.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Behrens1.0
+## Portfolio
+## CS-210 Module 8 Portfolio Item (Project 3) (7-3)
+
